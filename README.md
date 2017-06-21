@@ -1,2 +1,3 @@
 # hello-world
-doing what is written
+hello everyone!
+just entering the world of programming;and guess what started with github...
